@@ -20,6 +20,7 @@ public class RegexTest {
         // () - agrupador
         // | - OU
         // $ - fim de linha
+        // ^ - Negação
 
         final String simpleExpression = "\\D";
         final String simpleText = "asda//_uisd h8aosjd1,=231";
